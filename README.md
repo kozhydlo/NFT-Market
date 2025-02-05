@@ -1,3 +1,5 @@
+![photo](https://res.cloudinary.com/ddz9i6tqa/image/upload/portfolio/Project/ykvftmrza6fir5wliaya)
+
 # My NFT Collection Website
 
 Welcome to my personal NFT collection website! This platform showcases my unique digital art pieces, which are available for viewing and purchasing. The NFTs displayed here represent a fusion of my creativity and passion for digital art.
